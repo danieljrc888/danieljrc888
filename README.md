@@ -15,20 +15,6 @@ Web3 + AI Engineer — building at the intersection of blockchain and artificial
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-## Featured Projects
-
-### [Helix](https://github.com/danieljrc888/helix)
-Cyclic DEX arbitrage detector built with Rust and REVM. Forks live Ethereum state, simulates Uniswap V2/SushiSwap swaps, and uses ternary search optimization to find optimal trade sizes.
-
-### [AI-Powered Open Source Project Funding](https://github.com/danieljrc888/ai-based-open-source-project-funding)
-Decentralized platform that uses on-chain AI to analyze and rank open source projects for funding. Built with GenLayer intelligent contracts, Vue 3, and the GenLayer equivalence principle for validator consensus.
-
-### [Gas-Optimized NFT Marketplace](https://github.com/danieljrc888/cheap-nft-marketplace)
-NFT marketplace with off-chain auction system and on-chain settlement via EIP-712 signatures. Built with Solidity, Foundry, and TypeScript.
-
-### [SushiSwap V3 Liquidity Management](https://github.com/danieljrc888/sushiswap-v3-liquidity-management)
-Liquidity management toolkit for SushiSwap V3 concentrated liquidity pools on Ethereum.
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/@danieljrc888-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/danieljrc888)
