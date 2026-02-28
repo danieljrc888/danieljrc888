@@ -5,6 +5,7 @@ Web3 + AI Engineer — building at the intersection of blockchain and artificial
 ## Tech Stack
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=ethereum&logoColor=white)
@@ -15,6 +16,9 @@ Web3 + AI Engineer — building at the intersection of blockchain and artificial
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ## Featured Projects
+
+### [Helix](https://github.com/danieljrc888/helix)
+Cyclic DEX arbitrage detector built with Rust and REVM. Forks live Ethereum state, simulates Uniswap V2/SushiSwap swaps, and uses ternary search optimization to find optimal trade sizes.
 
 ### [AI-Powered Open Source Project Funding](https://github.com/danieljrc888/ai-based-open-source-project-funding)
 Decentralized platform that uses on-chain AI to analyze and rank open source projects for funding. Built with GenLayer intelligent contracts, Vue 3, and the GenLayer equivalence principle for validator consensus.
