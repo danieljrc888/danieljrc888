@@ -1,8 +1,6 @@
 # Daniel Rojas
 
-Web3 + AI Engineer building smart contracts, DeFi protocols, and AI-powered decentralized applications.
-
-Currently focused on the intersection of blockchain and artificial intelligence — from gas-optimized NFT marketplaces to on-chain AI inference with GenLayer intelligent contracts.
+Web3 + AI Engineer — building at the intersection of blockchain and artificial intelligence, from gas-optimized DeFi protocols to on-chain AI inference with GenLayer intelligent contracts.
 
 ## Tech Stack
 
