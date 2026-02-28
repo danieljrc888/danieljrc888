@@ -1,16 +1,33 @@
-## Hi there 👋
+# Daniel Rojas
 
-<!--
-**danieljrc888/danieljrc888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 + AI Engineer building smart contracts, DeFi protocols, and AI-powered decentralized applications.
 
-Here are some ideas to get you started:
+Currently focused on the intersection of blockchain and artificial intelligence — from gas-optimized NFT marketplaces to on-chain AI inference with GenLayer intelligent contracts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=flat&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+## Featured Projects
+
+### [AI-Powered Open Source Project Funding](https://github.com/danieljrc888/ai-based-open-source-project-funding)
+Decentralized platform that uses on-chain AI to analyze and rank open source projects for funding. Built with GenLayer intelligent contracts, Vue 3, and the GenLayer equivalence principle for validator consensus.
+
+### [Gas-Optimized NFT Marketplace](https://github.com/danieljrc888/cheap-nft-marketplace)
+NFT marketplace with off-chain auction system and on-chain settlement via EIP-712 signatures. Built with Solidity, Foundry, and TypeScript.
+
+### [SushiSwap V3 Liquidity Management](https://github.com/danieljrc888/sushiswap-v3-liquidity-management)
+Liquidity management toolkit for SushiSwap V3 concentrated liquidity pools on Ethereum.
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/@danieljrc888-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/danieljrc888)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-julian-rojas-cruz)
